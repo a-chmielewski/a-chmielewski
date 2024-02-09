@@ -13,8 +13,3 @@ _________
 - Dataspell
 - Jupyter
 - Power BI
-
-_________
-### 🔭 Currently working on
-
-I'm working on getting back to work directly in more tech-related areas.
