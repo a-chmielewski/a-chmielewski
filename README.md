@@ -8,7 +8,7 @@ I'm an IT polymath with a knack for transforming complex data puzzles into strea
 - **Data Science:** Unraveling the mysteries of data with predictive modeling and machine learning techniques.
 
 ### 💡 Skills Highlight
-- **Languages & Tools:** Python, SQL, R, VBA, PHP, C#, Power BI.
+- **Languages & Tools:** Python, SQL, Power BI R, VBA, C#, PHP.
 - **Domains:** Data Science, Business Intelligence, Machine Learning, Software Development.
 
 ### 🎯 Seeking to Explore
