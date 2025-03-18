@@ -1,21 +1,28 @@
 # 👋 Hi, I'm Aleksander!
 
 ### 🌟 About Me
-I'm an IT polymath with a knack for transforming complex data puzzles into streamlined business solutions. Diving deep into the realms of data science, machine learning, and software development, I thrive on the edge of innovation. With a track record of driving operational excellence through Python, SQL, and Power BI, I'm all about leveraging technology to enhance business processes and decision-making.
+I'm a versatile Data Professional with a passion for turning complex business challenges into actionable, data-driven solutions. With extensive experience in Data Science, Data Engineering, and Machine Learning, I excel at building robust, automated data pipelines, visualizing insights, and deploying scalable solutions that drive meaningful business impact.
+
+Combining technical expertise with effective communication, I bridge the gap between data and decision-making, collaborating seamlessly with international and cross-functional teams.
 
 ### 🚀 What I Do
-- **BI Programming:** Crafting financial applications for the pharmaceutical sector, with a penchant for optimizing performance and enhancing data integrity.
-- **Data Science:** Unraveling the mysteries of data with predictive modeling and machine learning techniques.
+- **Data Engineering & ETL Development:** Designing and automating high-performance data pipelines (Python, SQL) to ensure data quality, integrity, and scalability.
+- **Data Science & Analytics:** Building predictive models, performing statistical analysis, and creating advanced visualizations (Power BI, Plotly, Matplotlib) that translate data into strategic insights.
+- **Machine Learning Solutions:** Implementing robust ML models for classification, regression, forecasting, and algorithmic trading, coupled with rigorous testing and optimization.
 
-### 💡 Skills Highlight
-- **Languages & Tools:** Python, SQL, Power BI R, VBA, C#, PHP.
-- **Domains:** Data Science, Business Intelligence, Machine Learning, Software Development.
+### 💡 Skills Highlights
+- **Languages & Tools:** Python, SQL, Power BI, pandas, NumPy, scikit-learn, Plotly, Matplotlib, Docker, Git, Apache Airflow.
+- **Domains:** Data Science, Data Engineering, Business Intelligence, ETL Development, Automation, Algorithmic Trading.
 
-### 🎯 Seeking to Explore
-On the lookout for roles that challenge me to push the boundaries of data science and machine learning. Eager to apply my skills in innovative business solutions and contribute to data-driven operational excellence.
+### 🔥 Notable Projects
+- **Algorithmic Trading Systems:** Developed cryptocurrency trading strategies, automated execution via APIs, and built modular architectures for rapid testing and performance optimization.
+- **ETL Process Automation:** Successfully automated complex ETL workflows for financial and pharmaceutical sectors, significantly improving data reliability and reducing operational costs.
+
+### 🎯 Currently Exploring
+Actively seeking challenging opportunities as a **Data Scientist, Data Engineer, ETL Developer, or Data Analyst** to leverage my skills in building innovative, efficient, and business-focused data solutions.
 
 ### 📚 Continuous Learning
-A lifelong learner, constantly updating my arsenal with the latest industry trends and technologies. Because standing still is not an option when technology moves at the speed of light.
+Committed to lifelong learning and consistently updating my knowledge of cutting-edge technologies, best practices, and industry trends.
 
 ### 📫 Let's Connect!
 - 📧 Email: [chmielaq@gmail.com](mailto:chmielaq@gmail.com)
